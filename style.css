@@ -1,0 +1,46 @@
+body {
+  background-image: url("images/background_gradient.jpg");
+}
+
+body {
+  width: 50%;
+  margin: auto;
+  font-family: monospace;
+}
+
+.heading:hover {
+  text-decoration: underline;
+}
+
+.container {
+  width: 360px;
+}
+
+#inputField {
+  width: 300px;
+  height: 30px;
+  border: 1.5px solid black;
+  outline: none;
+  font-size: 20px;
+  vertical-align: middle;
+}
+
+#addToDo {
+  width: 35px;
+  height: 35px;
+  border: 1.5px solid black;
+  vertical-align: middle;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.to-dos {
+  margin-top: 20px;
+  border: 2px solid black;
+}
+
+.paragraph-styling {
+  margin: 0;
+  cursor: pointer;
+  font-size: 20px;
+}
